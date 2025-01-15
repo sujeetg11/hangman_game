@@ -1,6 +1,6 @@
 # hangman_game
 
-## This game is develop on Ruby, the same language use to develp GITHUB.
+## This game is develop on Ruby, the same language used to develop GITHUB.
 
 ### The additional software that provides the GitHub user interface was written using Ruby on Rails and Erlang by GitHub, Inc. developers Wanstrath, Hyett, and Preston-Werner. ~Wikipedia
 
